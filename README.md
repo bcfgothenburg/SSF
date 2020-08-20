@@ -40,19 +40,19 @@
    * In collaboration with Vanja Börjesson and Malin Johansson (UGoT)
    
 ### Pathway Analysis software evaluation
-   * In collaboration with Annelie Angefors
+   * In collaboration with Annelie Angerfors
 
 ### Batch effect on proteomic data
    * In collaboration with Jari Martikainen, Peidi Liu and the [Proteomics Core Facility](https://cf.gu.se/english/Proteomics)
 
 ### IONISER: Searching for glycoproteins
-   * In collaboration with Dagmara Gotlib and Proteomics Core Facility
+   * In collaboration with Dagmara Gotlib and [Proteomics Core Facility](https://cf.gu.se/english/Proteomics)
 
-### REAPER: A lightweight file monitor
-   * In collaboration with Dagmara Gotblib and Proteomics Core Facility
+### REAPER: A light-weight file monitor
+   * In collaboration with Dagmara Gotlib and [Proteomics Core Facility](https://cf.gu.se/english/Proteomics)
    
-### MaSILiM: Mass Spectometry Immaging and Light microscopy fussion
-   * In collaboration with Dagmara Gotblib and Centre for [Cellular Imaging](https://cf.gu.se/english/centre_for_cellular_imaging)
+### MaSILiM: Mass Spectometry Imaging and Light microscopy fusion
+   * In collaboration with Dagmara Gotlib and Centre for [Cellular Imaging](https://cf.gu.se/english/centre_for_cellular_imaging)
 
 
 
