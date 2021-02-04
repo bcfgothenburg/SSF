@@ -11,7 +11,7 @@
 
 ### [TC-Hunter](https://github.com/vborjesson/TC_hunter): Identification of transgenic insertion sites within the host genome
    * In collaboration with Vanja Börjesson and Jelena Milosevic (Karolinska Institutet)
-   * [Poster]([https://github.com/bcfgothenburg/SSF/blob/master/2018_0828_TChunter.pdf)
+   * [Poster](https://github.com/bcfgothenburg/SSF/blob/master/2018_0828_TChunter.pdf)
    * Manuscript in preparation
    
 ### OBIRES: Optimized Bioinformatics, Workflows from Requirement Engineering of Solution Specifications
