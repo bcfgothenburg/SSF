@@ -18,7 +18,7 @@
    * In collaboration with Jennifer Horkoff, Francisco Gomes and Alexander Schliep (Chalmers)
    * Received further funding from [ICT SEED](https://www.chalmers.se/en/areas-of-advance/ict/news/Pages/The-granted-ICT-SEED-proposals-2018.aspx)
    * [Heckmann Barbalho de Figueroa L. et al. (2019) A Modeling Approach for Bioinformatics Workflows. In: Gordijn J., Guédria W., Proper H. (eds) The Practice of Enterprise Modeling. PoEM 2019. Lecture Notes in Business Information Processing, vol 369. Springer, Cham](https://link.springer.com/chapter/10.1007%2F978-3-030-35151-9_11)
-   * Presented at [SBW19](https://www.gu.se/en/core-facilities/bioinformatics-bcf/education-and-training-in-bioinformatics/swedish-bioinformatics-workshop-2019). See [poster](https://github.com/bcfgothenburg/SSF/blob/master/2019_poster_obires.pdf)
+   * [Poster](https://github.com/bcfgothenburg/SSF/blob/master/2019_poster_obires.pdf)
    
 ### [PΨFinder](https://github.com/SannaAb/Pseudogenes): Novel processed pseudogenes detection tool
    * In collaboration with Sanna Abrahamsson and Anna Rohlin (Laboratory Medicine at UGoT)
