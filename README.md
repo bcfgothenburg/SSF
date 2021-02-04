@@ -12,18 +12,18 @@
 ### [TC-Hunter](https://github.com/vborjesson/TC_hunter): Identification of transgenic insertion sites within the host genome
    * In collaboration with Vanja Börjesson and Jelena Milosevic (Karolinska Institutet)
    * [Poster](https://github.com/bcfgothenburg/SSF/blob/master/2018_0828_TChunter.pdf)
-   * Manuscript in preparation
+   * _Manuscript in preparation_
    
 ### OBIRES: Optimized Bioinformatics, Workflows from Requirement Engineering of Solution Specifications
    * In collaboration with Jennifer Horkoff, Francisco Gomes and Alexander Schliep (Chalmers)
    * Received further funding from [ICT SEED](https://www.chalmers.se/en/areas-of-advance/ict/news/Pages/The-granted-ICT-SEED-proposals-2018.aspx)
-   * [Heckmann Barbalho de Figueroa L. et al. (2019) A Modeling Approach for Bioinformatics Workflows. In: Gordijn J., Guédria W., Proper H. (eds) The Practice of Enterprise Modeling. PoEM 2019. Lecture Notes in Business Information Processing, vol 369. Springer, Cham](https://link.springer.com/chapter/10.1007%2F978-3-030-35151-9_11)
    * [Poster](https://github.com/bcfgothenburg/SSF/blob/master/2019_poster_obires.pdf)
+   * [Heckmann Barbalho de Figueroa L. et al. (2019) A Modeling Approach for Bioinformatics Workflows. In: Gordijn J., Guédria W., Proper H. (eds) The Practice of Enterprise Modeling. PoEM 2019. Lecture Notes in Business Information Processing, vol 369. Springer, Cham](https://link.springer.com/chapter/10.1007%2F978-3-030-35151-9_11)
    
 ### [PΨFinder](https://github.com/SannaAb/Pseudogenes): Novel processed pseudogenes detection tool
    * In collaboration with Sanna Abrahamsson and Anna Rohlin (Laboratory Medicine at UGoT)
    * [Poster](https://github.com/bcfgothenburg/SSF/blob/master/2017_poster_Pseudogenes_ForPrint.pdf)
-   * Manuscript in preparation
+   * _Manuscript in preparation_
 
 ### Molecular regulation of homeostasis in the human liver
    * In collaboration with Christina Jern (UGoT)
@@ -37,15 +37,18 @@
    
 ### Machine learning biomarker identification in Radiotherapy
    * In collaboration with Björn Andersson, Peidi Liu, Erik Lorentzen and Britta Langen (UGoT)
+   * [Poster](https://github.com/bcfgothenburg/SSF/blob/master/2017_poster_Pseudogenes_ForPrint.pdf)
+   * _Manuscript in preparation_
 
 ### InVi: Integration and visualizationof genomic data
    * In collaboration with Luciano Fernández and Christina Jern (UGoT)
    * [Poster](https://github.com/bcfgothenburg/SSF/blob/master/2017_circos_presentation_LF_2.pdf)
    * Fernandez-Ricaud, L. and Davila Lopez, M. InVi: Integration and visualization of genomic data at BioRxiv
-   Inquiries about the software availability please contact marcela[dot]davila[at]gu[dot]se
+   * Inquiries about the software availability please contact marcela[dot]davila[at]gu[dot]se
 
 ### Benchmarking five pseudotime analysis tools for scRNAseq data
    * In collaboration with Vanja Börjesson and Malin Johansson (UGoT)
+   * [Poster](https://github.com/bcfgothenburg/SSF/blob/master/20191007_pseudotime.pdf)
    
 ### Pathway Analysis software evaluation
    * In collaboration with Annelie Angerfors
