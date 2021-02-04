@@ -33,7 +33,7 @@
 ### Machine learning biomarker identification in Radiotherapy
    * In collaboration with Björn Andersson, Peidi Liu, Erik Lorentzen and Britta Langen (UGoT)
 
-### InVi: Integration and visualizationof NGS data
+### InVi: Integration and visualizationof genomic data
    * In collaboration with Luciano Fernández and Christina Jern (UGoT)
 
 ### Benchmarking five pseudotime analysis tools for scRNAseq data
