@@ -37,7 +37,7 @@
    
 ### Machine learning biomarker identification in Radiotherapy
    * In collaboration with Björn Andersson, Peidi Liu, Erik Lorentzen and Britta Langen (UGoT)
-   * [Poster](https://github.com/bcfgothenburg/SSF/blob/master/2017_poster_Pseudogenes_ForPrint.pdf)
+   * [Poster](https://github.com/bcfgothenburg/SSF/blob/master/SBW_2019_gbg_21_22oct_Final.pdf)
    * _Manuscript in preparation_
 
 ### InVi: Integration and visualizationof genomic data
