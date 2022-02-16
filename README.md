@@ -56,7 +56,7 @@
 ### Batch effect on proteomic data
    * In collaboration with Jari Martikainen, Peidi Liu and the [Proteomics Core Facility](https://cf.gu.se/english/Proteomics)
 
-### IONISER: Searching for glycoproteins
+### [IONISER](https://bitbucket.org/xgotda/qtioniser/src/master/): Searching for glycoproteins
    * In collaboration with Dagmara Gotlib and [Proteomics Core Facility](https://cf.gu.se/english/Proteomics)
 
 ### REAPER: A light-weight file monitor
