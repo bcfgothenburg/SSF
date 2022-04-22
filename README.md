@@ -145,9 +145,10 @@ BCF contributor(s): Marcela Davila and Sanna Abrahamsson
    * [Sanna Abrahamsson, Marcela Dávila López, Comparison of online learning designs during the COVID-19 pandemic within bioinformatics courses in higher education, Bioinformatics, Volume 37, Issue Supplement_1, July 2021, Pages i9–i15, doi:10.1093/bioinformatics/btab304](https://www.ncbi.nlm.nih.gov/pubmed/34252967)
 
 ### Proteomics data analysis workflow
-   * In collaboration with Jari Martikainen Peidi Liu and the [Proteomics Core Facility](https://cf.gu.se/english/Proteomics)
+BCF contributor(s): Jari Martikainen. In collaboration with [Proteomics Core Facility](https://cf.gu.se/english/Proteomics)
 
-_Ongoing_  
+   * [Martikainen, J. and M. Davila Lopez, Proteomics data analysis: design, missing values and batch effect. 2021, Bioinformatics Core Facility. doi:10.13140/RG.2.2.24486.80969](http://dx.doi.org/10.13140/RG.2.2.22816.46089)
+
  
 ***
  
