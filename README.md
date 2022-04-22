@@ -90,7 +90,7 @@ _Ongoing_
 ### [Odyssey 2.1.1](https://github.com/AlinaO311/Odyssey): Imputation of genomic data
 BCF contributor(s): Björn Andersson and Alina Orozco. In collaboration with Tara Stanne (UGoT)
 
-_Ongoing_
+  * [Orozco, A., Odyssey 2.1.1: Imputation of genomic data. 2022, Bioinformatics Core Facility.](https://www.gu.se/sites/default/files/2022-04/Odyssey_2022.pdf)
 
 ### [PΨFinder](https://github.com/SannaAb/Pseudogenes): Novel processed pseudogenes detection tool
 BCF contributor(s): Sanna Abrahamsson and Marcela Dávila. In collaboration with Anna Rohlin (Laboratory Medicine at UGoT)
